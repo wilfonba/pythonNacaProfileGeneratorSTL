@@ -19,10 +19,10 @@ Script which directly generate 4-digit NACA profile to .STL file in ASCII code.
 You can simply run a script in Windows cmd or Ubuntu Bash.
 
 Variables:
-* "foil" - number
+* "foil" - 4-digit NACA identifier
 * "numberOfPoints" - cnt
+* * "length" - meter
 * "chordLength" - meter
-* "lenght" - meter
 * "angleOfAttack" - deg
 
 Example:
