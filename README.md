@@ -21,7 +21,7 @@ You can simply run a script in Windows cmd or Ubuntu Bash.
 Variables:
 * "foil" - 4-digit NACA identifier
 * "numberOfPoints" - cnt
-* * "length" - meter
+* "length" - meter
 * "chordLength" - meter
 * "angleOfAttack" - deg
 
